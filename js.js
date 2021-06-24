@@ -1,3 +1,3 @@
 function saludo() {
-    alert("Bienvenido a mi pagina web");
+    alert("Bienvenido a mi pagina web prueba");
 }
